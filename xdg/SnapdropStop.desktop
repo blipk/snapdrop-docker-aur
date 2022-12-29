@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Snapdrop Stop
+Exec=bash -c "cd /opt/snapdrop && docker compose stop"
+Icon=snapdrop1
+Terminal=true
+Type=Application
