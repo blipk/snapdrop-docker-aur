@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Snapdrop
-Exec=bash -c "cd /opt/snapdrop && docker compose up & xdg-open 'http://localhost:8080'"
+Exec=bash -c "cd /opt/snapdrop && docker compose up & xdg-open 'http://localhost:3000'"
 Icon=snapdrop1
 Terminal=true
 Type=Application

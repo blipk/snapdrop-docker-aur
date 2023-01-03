@@ -1,0 +1,1 @@
+tar -zcvf snapdrop-docker-git-latest.tar.gz ./*
